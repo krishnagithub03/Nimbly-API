@@ -1,0 +1,1 @@
+a RESTful API that allows users to manage EC2 instances.
